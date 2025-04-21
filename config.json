@@ -1,0 +1,15 @@
+{
+  "default_output_dir": "./output",
+  "scan_timeout": "2s",
+  "wordlist_path": "./wordlists/top1000.txt",
+  "api_keys": {
+    "shodan": "YOUR_SHODAN_API_KEY",
+    "virustotal": "YOUR_VIRUSTOTAL_API_KEY"
+  },
+  "user_profile": {
+    "name": "Your Name",
+    "organization": "Your Org",
+    "role": "pentester"
+  },
+  "custom_banner": "Welcome to nullorsX!"
+}
